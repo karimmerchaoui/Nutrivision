@@ -1,0 +1,726 @@
+{
+  "basbousa": {
+    "description": "Basbousa is a beloved Middle Eastern semolina cake with a distinctive coarse texture, soaked in fragrant sugar syrup infused with rose or orange blossom water. This golden dessert is often topped with almonds or coconut and served at celebrations and family gatherings throughout the Arab world.",
+    "nutrition": {
+      "calories": { "value": 223, "unit": "kcal" },
+      "protein": { "value": 3.7, "unit": "g" },
+      "carbs": { "value": 40, "unit": "g" },
+      "fat": { "value": 5.8, "unit": "g" },
+      "fiber": { "value": 1.2, "unit": "g" },
+      "totalSugars": { "value": 25, "unit": "g" },
+      "sodium": { "value": 71.3, "unit": "mg" },
+      "potassium": { "value": 120.5, "unit": "mg" },
+      "iron": { "value": 0.89, "unit": "mg" },
+      "vitaminD": { "value": 0.16, "unit": "mcg" }
+    },
+    "conversion": {
+      "serving": 118,
+      "tablespoon": 15,
+      "slice": 30
+    },
+    "ingredients": [
+      "Semolina flour",
+      "Sugar",
+      "Plain yogurt (dairy)",
+      "Butter or ghee (dairy)",
+      "Shredded coconut",
+      "Baking powder",
+      "Rose water or orange blossom water",
+      "Blanched almonds (for topping)",
+      "Sugar syrup (sugar, water, lemon juice)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/eg.png"
+  },
+  "freekeh": {
+    "description": "Freekeh is an ancient superfood grain made from young green wheat that's harvested early and roasted over open fires, giving it a distinctive smoky, nutty flavor. This protein-rich grain has been a staple in Levantine cuisine for over 2,000 years and is prized for its high fiber content and complex taste that pairs beautifully with both meat and vegetarian dishes.",
+    "nutrition": {
+      "calories": { "value": 325, "unit": "kcal" },
+      "protein": { "value": 12.5, "unit": "g" },
+      "carbs": { "value": 65, "unit": "g" },
+      "fat": { "value": 2.5, "unit": "g" },
+      "fiber": { "value": 10, "unit": "g" },
+      "totalSugars": { "value": 2, "unit": "g" },
+      "sodium": { "value": 10, "unit": "mg" },
+      "potassium": { "value": 440, "unit": "mg" },
+      "iron": { "value": 3.5, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "conversion": {
+      "serving": 118,
+      "tablespoon": 15
+    },
+    "ingredients": [
+      "Freekeh (roasted green wheat)",
+      "Extra virgin olive oil",
+      "Yellow onions",
+      "Fresh garlic",
+      "Ground cumin",
+      "Ground coriander",
+      "Ground cinnamon",
+      "Mixed vegetables (carrots, zucchini, bell peppers)",
+      "Chicken stock or vegetable broth",
+      "Salt and black pepper",
+      "Fresh parsley",
+      "Pine nuts (optional)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/lb.png"
+  },
+  "meshabek": {
+    "description": "Meshabek is a traditional Tunisian sweet pastry that resembles delicate golden spirals or pretzels, deep-fried until crispy and immediately soaked in fragrant sugar syrup. Similar to Middle Eastern jalebi, this beloved Ramadan and celebration treat has a crispy exterior that gives way to a syrup-soaked interior, often flavored with orange blossom water or rose water.",
+    "nutrition": {
+      "calories": { "value": 280, "unit": "kcal" },
+      "protein": { "value": 4, "unit": "g" },
+      "carbs": { "value": 35, "unit": "g" },
+      "fat": { "value": 14, "unit": "g" },
+      "fiber": { "value": 1, "unit": "g" },
+      "totalSugars": { "value": 20, "unit": "g" },
+      "sodium": { "value": 50, "unit": "mg" },
+      "potassium": { "value": 100, "unit": "mg" },
+      "iron": { "value": 0.5, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "conversion": {
+      "tablespoon": 15,
+      "slice": 26
+    },
+    "ingredients": [
+      "All-purpose flour",
+      "Cornstarch",
+      "Active dry yeast",
+      "Sugar",
+      "Warm water",
+      "Vegetable oil (for frying)",
+      "Sugar syrup (sugar, water, lemon juice)",
+      "Orange blossom water or rose water",
+      "Pinch of salt"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "tcharek": {
+    "description": "Tcharek is an elegant Algerian pastry shaped like crescents or horns, traditionally filled with sweet date paste, ground almonds, or walnuts. These delicate pastries are often dusted with powdered sugar and served during religious holidays, weddings, and special occasions. The dough is enriched with butter and sometimes orange zest, creating a tender, flaky texture.",
+    "nutrition": {
+      "calories": { "value": 380, "unit": "kcal" },
+      "protein": { "value": 10, "unit": "g" },
+      "carbs": { "value": 75, "unit": "g" },
+      "fat": { "value": 5, "unit": "g" },
+      "fiber": { "value": 3, "unit": "g" },
+      "totalSugars": { "value": 30, "unit": "g" },
+      "sodium": { "value": 20, "unit": "mg" },
+      "potassium": { "value": 150, "unit": "mg" },
+      "iron": { "value": 1.2, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "All-purpose flour",
+      "Butter (softened)",
+      "Eggs",
+      "Sugar",
+      "Vanilla extract",
+      "Orange zest",
+      "Baking powder",
+      "Milk",
+      "Date paste or ground almonds (filling)",
+      "Powdered sugar (for dusting)",
+      "Ground cinnamon",
+      "Salt"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/dz.png"
+  },
+  "thieboudienne": {
+    "description": "Thieboudienne (pronounced 'cheb-oo-jen') is Senegal's national dish and arguably West Africa's most famous culinary export. This one-pot wonder features tender fish (traditionally grouper or sea bream) cooked with broken jasmine rice in a rich tomato-based sauce, accompanied by an array of vegetables like cabbage, carrots, sweet potatoes, and okra. The dish gets its distinctive red color and deep flavor from tomato paste and local seasonings.",
+    "nutrition": {
+      "calories": { "value": 250, "unit": "kcal" },
+      "protein": { "value": 20, "unit": "g" },
+      "carbs": { "value": 30, "unit": "g" },
+      "fat": { "value": 8, "unit": "g" },
+      "fiber": { "value": 4, "unit": "g" },
+      "totalSugars": { "value": 3, "unit": "g" },
+      "sodium": { "value": 500, "unit": "mg" },
+      "potassium": { "value": 600, "unit": "mg" },
+      "iron": { "value": 3, "unit": "mg" },
+      "vitaminD": { "value": 0.5, "unit": "mcg" }
+    },
+    "conversion": {
+      "serving": 350,
+      "tablespoon": 15
+        },
+    "ingredients": [
+      "Fresh fish (grouper, sea bream, or snapper)",
+      "Broken jasmine rice",
+      "Tomato paste",
+      "Palm oil or vegetable oil",
+      "Onions",
+      "Garlic",
+      "Cabbage",
+      "Carrots",
+      "Sweet potatoes",
+      "Okra",
+      "Eggplant",
+      "Cassava",
+      "Scotch bonnet peppers",
+      "Parsley",
+      "Thyme",
+      "Bay leaves",
+      "Stock cubes",
+      "Salt and black pepper"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/sn.png"
+  },
+  "asidat zgougou": {
+    "description": "Asidat Zgougou is a unique Tunisian dessert traditionally prepared to celebrate Mawlid (the Prophet Muhammad's birthday). This creamy, pudding-like dessert is made from Aleppo pine nuts (zgougou seeds) that are ground into a fine powder and cooked with milk and sugar. The result is a smooth, ivory-colored dessert with a distinctive nutty flavor, often garnished with chopped pistachios, almonds, and sometimes coconut flakes.",
+    "nutrition": {
+      "calories": { "value": 320, "unit": "kcal" },
+      "protein": { "value": 6, "unit": "g" },
+      "carbs": { "value": 50, "unit": "g" },
+      "fat": { "value": 10, "unit": "g" },
+      "fiber": { "value": 5, "unit": "g" },
+      "totalSugars": { "value": 25, "unit": "g" },
+      "sodium": { "value": 100, "unit": "mg" },
+      "potassium": { "value": 300, "unit": "mg" },
+      "iron": { "value": 2, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "conversion": {
+      "serving": 150,
+      "tablespoon": 15
+        },
+    "ingredients": [
+      "Aleppo pine nuts (zgougou seeds)",
+      "Whole milk",
+      "Sugar",
+      "Cornstarch or rice starch",
+      "Vanilla extract",
+      "Chopped pistachios (for garnish)",
+      "Blanched almonds (for garnish)",
+      "Shredded coconut (optional)",
+      "Ground cinnamon (for dusting)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "baghrir": {
+    "description": "Baghrir, known as 'thousand-hole pancakes,' are Morocco's most distinctive breakfast treat. These spongy, crepe-like pancakes are made from a yeasted semolina batter that creates hundreds of tiny holes across the surface, perfect for absorbing melted butter and honey. The unique texture comes from the fermentation process and the use of both semolina and regular flour, resulting in pancakes that are tender, airy, and incredibly satisfying.",
+    "nutrition": {
+      "calories": { "value": 220, "unit": "kcal" },
+      "protein": { "value": 6, "unit": "g" },
+      "carbs": { "value": 40, "unit": "g" },
+      "fat": { "value": 3, "unit": "g" },
+      "fiber": { "value": 2, "unit": "g" },
+      "totalSugars": { "value": 5, "unit": "g" },
+      "sodium": { "value": 300, "unit": "mg" },
+      "potassium": { "value": 150, "unit": "mg" },
+      "iron": { "value": 1.5, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Fine semolina",
+      "All-purpose flour",
+      "Active dry yeast",
+      "Sugar",
+      "Salt",
+      "Warm water",
+      "Warm milk",
+      "Baking powder",
+      "Butter (for serving)",
+      "Honey (for serving)",
+      "Argan oil (optional, traditional)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/ma.png"
+  },
+  "bradj": {
+    "description": "Bradj are traditional North African cookies made from semolina dough and filled with a sweet, spiced date paste. These crescent or diamond-shaped treats are particularly popular in Algeria and Tunisia during Ramadan and Eid celebrations. The semolina gives them a unique sandy texture, while the date filling provides natural sweetness enhanced with warm spices like cinnamon and orange zest.",
+    "nutrition": {
+      "calories": { "value": 350, "unit": "kcal" },
+      "protein": { "value": 5, "unit": "g" },
+      "carbs": { "value": 60, "unit": "g" },
+      "fat": { "value": 10, "unit": "g" },
+      "fiber": { "value": 2, "unit": "g" },
+      "totalSugars": { "value": 30, "unit": "g" },
+      "sodium": { "value": 50, "unit": "mg" },
+      "potassium": { "value": 200, "unit": "mg" },
+      "iron": { "value": 1, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Fine semolina",
+      "All-purpose flour",
+      "Butter or olive oil",
+      "Sugar",
+      "Eggs",
+      "Orange zest",
+      "Vanilla extract",
+      "Pitted dates (for filling)",
+      "Ground cinnamon",
+      "Ground cloves",
+      "Orange blossom water",
+      "Sesame seeds (for garnish)",
+      "Salt"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/dz.png"
+  },
+  "brik": {
+    "description": "Brik is Tunisia's most iconic street food - a crispy, golden triangle of ultra-thin warka (phyllo-like) pastry filled with a whole egg, tuna, capers, and parsley, then deep-fried to perfection. The art of eating brik lies in breaking into it carefully to let the runny yolk flow out, which is then soaked up with pieces of the crispy pastry. Variations include meat, cheese, or potato fillings.",
+    "nutrition": {
+      "calories": { "value": 280, "unit": "kcal" },
+      "protein": { "value": 10, "unit": "g" },
+      "carbs": { "value": 20, "unit": "g" },
+      "fat": { "value": 18, "unit": "g" },
+      "fiber": { "value": 2, "unit": "g" },
+      "totalSugars": { "value": 1, "unit": "g" },
+      "sodium": { "value": 400, "unit": "mg" },
+      "potassium": { "value": 250, "unit": "mg" },
+      "iron": { "value": 2, "unit": "mg" },
+      "vitaminD": { "value": 0.2, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Warka pastry sheets (or phyllo dough)",
+      "Fresh eggs",
+      "Canned tuna in oil",
+      "Capers",
+      "Fresh parsley",
+      "Onions (finely chopped)",
+      "Harissa paste (optional)",
+      "Vegetable oil (for frying)",
+      "Black pepper",
+      "Salt"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "cherchem": {
+    "description": "Cherchem is a traditional Tunisian barley-based dish with deep spiritual significance, often prepared during religious celebrations and the holy month of Ramadan. This hearty, porridge-like dish combines pearl barley with meat (usually lamb or beef), creating a nourishing meal that's both filling and flavorful. The slow-cooking process allows the barley to absorb all the rich flavors from the meat and spices.",
+    "nutrition": {
+      "calories": { "value": 300, "unit": "kcal" },
+      "protein": { "value": 8, "unit": "g" },
+      "carbs": { "value": 55, "unit": "g" },
+      "fat": { "value": 7, "unit": "g" },
+      "fiber": { "value": 4, "unit": "g" },
+      "totalSugars": { "value": 10, "unit": "g" },
+      "sodium": { "value": 150, "unit": "mg" },
+      "potassium": { "value": 300, "unit": "mg" },
+      "iron": { "value": 2.5, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Pearl barley",
+      "Lamb or beef (cut into chunks)",
+      "Onions",
+      "Garlic",
+      "Tomato paste",
+      "Olive oil",
+      "Bay leaves",
+      "Ground cinnamon",
+      "Ground allspice",
+      "Black pepper",
+      "Salt",
+      "Fresh parsley",
+      "Water or meat broth"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "couscous": {
+    "description": "Couscous is the crown jewel of North African cuisine and a UNESCO-recognized cultural heritage. These tiny granules of steamed semolina have a light, fluffy texture and serve as the perfect canvas for rich stews and vegetables. Traditional couscous is steamed multiple times in a special pot called a couscoussier, creating perfectly separate, tender grains that absorb the flavors of whatever accompanies them.",
+    "nutrition": {
+      "calories": { "value": 175, "unit": "kcal" },
+      "protein": { "value": 6, "unit": "g" },
+      "carbs": { "value": 36, "unit": "g" },
+      "fat": { "value": 0.5, "unit": "g" },
+      "fiber": { "value": 2.5, "unit": "g" },
+      "totalSugars": { "value": 1, "unit": "g" },
+      "sodium": { "value": 10, "unit": "mg" },
+      "potassium": { "value": 100, "unit": "mg" },
+      "iron": { "value": 0.5, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Couscous (semolina granules)",
+      "Salt",
+      "Olive oil or butter",
+      "Boiling water or broth",
+      "Various vegetables (carrots, zucchini, turnips, chickpeas)",
+      "Meat (lamb, chicken, or beef - optional)",
+      "Onions",
+      "Tomatoes",
+      "Spices (cinnamon, ginger, turmeric, saffron)",
+      "Fresh herbs (parsley, cilantro)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/ma.png"
+  },
+  "falafel": {
+    "description": "Falafel are crispy, golden-brown fritters that represent one of the Middle East's greatest culinary exports. Made from ground chickpeas or fava beans mixed with fresh herbs, spices, and aromatics, these protein-packed spheres are deep-fried until crunchy outside and tender inside. Often served in pita bread with tahini sauce, pickles, and fresh vegetables, falafel has become a beloved street food worldwide.",
+    "nutrition": {
+      "calories": { "value": 330, "unit": "kcal" },
+      "protein": { "value": 13, "unit": "g" },
+      "carbs": { "value": 30, "unit": "g" },
+      "fat": { "value": 18, "unit": "g" },
+      "fiber": { "value": 6, "unit": "g" },
+      "totalSugars": { "value": 3, "unit": "g" },
+      "sodium": { "value": 400, "unit": "mg" },
+      "potassium": { "value": 400, "unit": "mg" },
+      "iron": { "value": 3, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Dried chickpeas (soaked overnight)",
+      "Fresh parsley",
+      "Fresh cilantro",
+      "Onions",
+      "Garlic",
+      "Ground cumin",
+      "Ground coriander",
+      "Red pepper flakes",
+      "Baking powder",
+      "Salt",
+      "Black pepper",
+      "Sesame seeds (optional)",
+      "Vegetable oil (for frying)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/eg.png"
+  },
+  "fricasse": {
+    "description": "Fricassé is Tunisia's beloved fried sandwich, a crispy, golden-brown doughnut-like bread that's split open and stuffed with a medley of Mediterranean flavors. This popular street food features a pillowy, yeasted dough that's deep-fried until puffy and crisp, then filled with tuna, hard-boiled eggs, olives, capers, boiled potatoes, and harissa, creating a satisfying and flavorful handheld meal.",
+    "nutrition": {
+      "calories": { "value": 320, "unit": "kcal" },
+      "protein": { "value": 12, "unit": "g" },
+      "carbs": { "value": 25, "unit": "g" },
+      "fat": { "value": 20, "unit": "g" },
+      "fiber": { "value": 3, "unit": "g" },
+      "totalSugars": { "value": 2, "unit": "g" },
+      "sodium": { "value": 600, "unit": "mg" },
+      "potassium": { "value": 350, "unit": "mg" },
+      "iron": { "value": 2, "unit": "mg" },
+      "vitaminD": { "value": 0.1, "unit": "mcg" }
+    },
+    "ingredients": [
+      "All-purpose flour",
+      "Active dry yeast",
+      "Sugar",
+      "Salt",
+      "Warm water",
+      "Vegetable oil (for frying and filling)",
+      "Canned tuna",
+      "Hard-boiled eggs",
+      "Black olives",
+      "Capers",
+      "Boiled potatoes",
+      "Harissa paste",
+      "Preserved lemons (optional)",
+      "Fresh parsley"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "ful mdemmes": {
+    "description": "Ful Medammes is an ancient dish that has sustained people across North Africa and the Middle East for thousands of years. This humble yet satisfying meal consists of slow-cooked fava beans mashed with olive oil, garlic, and lemon juice, creating a creamy, protein-rich dish that's often considered the region's original comfort food. Traditionally served with fresh vegetables, hard-boiled eggs, and warm bread.",
+    "nutrition": {
+      "calories": { "value": 150, "unit": "kcal" },
+      "protein": { "value": 8, "unit": "g" },
+      "carbs": { "value": 20, "unit": "g" },
+      "fat": { "value": 5, "unit": "g" },
+      "fiber": { "value": 7, "unit": "g" },
+      "totalSugars": { "value": 1, "unit": "g" },
+      "sodium": { "value": 300, "unit": "mg" },
+      "potassium": { "value": 350, "unit": "mg" },
+      "iron": { "value": 2.5, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Dried fava beans (soaked overnight)",
+      "Extra virgin olive oil",
+      "Fresh garlic",
+      "Fresh lemon juice",
+      "Ground cumin",
+      "Salt",
+      "Black pepper",
+      "Fresh parsley",
+      "Tomatoes (diced)",
+      "Onions (diced)",
+      "Hard-boiled eggs (for serving)",
+      "Fresh mint (optional)",
+      "Tahini (optional)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/eg.png"
+  },
+  "kafteji": {
+    "description": "Kafteji is Tunisia's rustic vegetable scramble, a hearty and colorful dish that transforms simple vegetables into a satisfying meal. This home-style dish features a medley of fried vegetables - typically potatoes, peppers, tomatoes, and zucchini - that are chopped and scrambled with eggs, creating a chunky, flavorful mixture that's often served with crusty bread for dipping.",
+    "nutrition": {
+      "calories": { "value": 200, "unit": "kcal" },
+      "protein": { "value": 10, "unit": "g" },
+      "carbs": { "value": 20, "unit": "g" },
+      "fat": { "value": 10, "unit": "g" },
+      "fiber": { "value": 5, "unit": "g" },
+      "totalSugars": { "value": 3, "unit": "g" },
+      "sodium": { "value": 300, "unit": "mg" },
+      "potassium": { "value": 400, "unit": "mg" },
+      "iron": { "value": 2, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Potatoes",
+      "Bell peppers (green and red)",
+      "Tomatoes",
+      "Zucchini",
+      "Onions",
+      "Fresh eggs",
+      "Olive oil",
+      "Garlic",
+      "Ground coriander",
+      "Ground caraway",
+      "Salt",
+      "Black pepper",
+      "Fresh parsley",
+      "Harissa paste (optional)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "karantika": {
+    "description": "Karantika is Algeria's answer to socca, a protein-rich chickpea flour 'pie' that's baked until golden and served hot from street vendors' ovens. This gluten-free dish has a creamy, custard-like interior with a slightly crispy top, often served in bread as a sandwich or eaten on its own with a drizzle of olive oil and a sprinkle of spices. It's particularly popular in the coastal city of Oran.",
+    "nutrition": {
+      "calories": { "value": 250, "unit": "kcal" },
+      "protein": { "value": 15, "unit": "g" },
+      "carbs": { "value": 15, "unit": "g" },
+      "fat": { "value": 15, "unit": "g" },
+      "fiber": { "value": 2, "unit": "g" },
+      "totalSugars": { "value": 1, "unit": "g" },
+      "sodium": { "value": 400, "unit": "mg" },
+      "potassium": { "value": 300, "unit": "mg" },
+      "iron": { "value": 1.5, "unit": "mg" },
+      "vitaminD": { "value": 0.2, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Chickpea flour (besan)",
+      "Water",
+      "Eggs",
+      "Olive oil",
+      "Salt",
+      "Ground black pepper",
+      "Ground cumin",
+      "Baking powder",
+      "Fresh parsley (chopped)",
+      "Garlic (minced)",
+      "Harissa paste (for serving)",
+      "Bread rolls (for serving)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/dz.png"
+  },
+  "kunafah": {
+    "description": "Kunafah is the queen of Middle Eastern desserts, featuring layers of crispy, hair-thin pastry (kataifi) embracing a center of creamy, stretchy cheese or thick custard, all soaked in fragrant sugar syrup. This show-stopping dessert is often topped with crushed pistachios and served warm, creating a delightful contrast between the crunchy exterior and molten, sweet interior.",
+    "nutrition": {
+      "calories": { "value": 400, "unit": "kcal" },
+      "protein": { "value": 5, "unit": "g" },
+      "carbs": { "value": 50, "unit": "g" },
+      "fat": { "value": 20, "unit": "g" },
+      "fiber": { "value": 2, "unit": "g" },
+      "totalSugars": { "value": 30, "unit": "g" },
+      "sodium": { "value": 200, "unit": "mg" },
+      "potassium": { "value": 150, "unit": "mg" },
+      "iron": { "value": 1, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Kataifi pastry (shredded phyllo)",
+      "Fresh ricotta or akkawi cheese",
+      "Butter (melted)",
+      "Sugar",
+      "Water",
+      "Lemon juice",
+      "Orange blossom water",
+      "Crushed pistachios",
+      "Food coloring (orange or red, optional)",
+      "Heavy cream (for custard version)",
+      "Semolina (for custard version)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/ps.png"
+  },
+  "lablabi": {
+    "description": "Lablabi is Tunisia's beloved breakfast soup, a warming bowl of comfort that starts many Tunisians' day. This hearty chickpea soup is seasoned with harissa, cumin, and garlic, then topped with a soft-poached egg, chunks of stale bread, capers, and a generous drizzle of olive oil. The result is a spicy, satisfying meal that's both nourishing and deeply flavorful.",
+    "nutrition": {
+      "calories": { "value": 180, "unit": "kcal" },
+      "protein": { "value": 10, "unit": "g" },
+      "carbs": { "value": 25, "unit": "g" },
+      "fat": { "value": 5, "unit": "g" },
+      "fiber": { "value": 6, "unit": "g" },
+      "totalSugars": { "value": 2, "unit": "g" },
+      "sodium": { "value": 350, "unit": "mg" },
+      "potassium": { "value": 400, "unit": "mg" },
+      "iron": { "value": 3, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Dried chickpeas (soaked overnight)",
+      "Stale bread (preferably day-old)",
+      "Fresh eggs",
+      "Harissa paste",
+      "Olive oil",
+      "Garlic",
+      "Ground cumin",
+      "Ground caraway",
+      "Capers",
+      "Preserved lemons",
+      "Fresh lemon juice",
+      "Salt",
+      "Black pepper",
+      "Fresh parsley"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "lham lahlou": {
+    "description": "Lham Lahlou is a sophisticated Algerian tagine that perfectly balances sweet and savory flavors. This elegant dish features tender chunks of lamb slow-cooked with dried fruits like prunes and apricots, creating a complex flavor profile enhanced by warm spices such as cinnamon, ginger, and saffron. The natural sugars from the fruits caramelize during cooking, creating a glossy, aromatic sauce that's both exotic and comforting.",
+    "nutrition": {
+      "calories": { "value": 300, "unit": "kcal" },
+      "protein": { "value": 20, "unit": "g" },
+      "carbs": { "value": 25, "unit": "g" },
+      "fat": { "value": 15, "unit": "g" },
+      "fiber": { "value": 3, "unit": "g" },
+      "totalSugars": { "value": 15, "unit": "g" },
+      "sodium": { "value": 400, "unit": "mg" },
+      "potassium": { "value": 500, "unit": "mg" },
+      "iron": { "value": 2.5, "unit": "mg" },
+      "vitaminD": { "value": 0.1, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Lamb shoulder (cut into chunks)",
+      "Pitted prunes",
+      "Dried apricots",
+      "Onions",
+      "Garlic",
+      "Fresh ginger",
+      "Ground cinnamon",
+      "Ground ginger",
+      "Saffron threads",
+      "Honey",
+      "Olive oil",
+      "Beef or lamb stock",
+      "Blanched almonds",
+      "Sesame seeds",
+      "Salt",
+      "Black pepper",
+      "Fresh cilantro"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/dz.png"
+  },
+  "maakouda": {
+    "description": "Maakouda are Morocco's beloved potato fritters, golden-brown pillows of mashed potato perfection that are crispy outside and fluffy inside. These popular street food treats are made from seasoned mashed potatoes mixed with fresh herbs and spices, then formed into patties and deep-fried until crispy. Often served in bread as a sandwich or as a side dish, maakouda represent the ultimate comfort food.",
+    "nutrition": {
+      "calories": { "value": 280, "unit": "kcal" },
+      "protein": { "value": 10, "unit": "g" },
+      "carbs": { "value": 25, "unit": "g" },
+      "fat": { "value": 15, "unit": "g" },
+      "fiber": { "value": 3, "unit": "g" },
+      "totalSugars": { "value": 2, "unit": "g" },
+      "sodium": { "value": 350, "unit": "mg" },
+      "potassium": { "value": 300, "unit": "mg" },
+      "iron": { "value": 1.5, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Potatoes (peeled and boiled)",
+      "Fresh eggs",
+      "All-purpose flour",
+      "Fresh parsley",
+      "Fresh cilantro",
+      "Garlic",
+      "Ground cumin",
+      "Ground coriander",
+      "Paprika",
+      "Salt",
+      "Black pepper",
+      "Vegetable oil (for frying)",
+      "Onions (finely chopped)",
+      "Green onions"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/ma.png"
+  },
+  "mloukhia": {
+    "description": "Mloukhia is a distinctive green stew made from jute leaves (molokhia) that's cherished across North Africa and the Middle East. The leaves are finely chopped and cooked with meat stock to create a thick, viscous stew with a unique, slightly mucilaginous texture. This nutritious dish is prized for its earthy flavor and is often served over rice with tender pieces of chicken or lamb.",
+    "nutrition": {
+      "calories": { "value": 120, "unit": "kcal" },
+      "protein": { "value": 10, "unit": "g" },
+      "carbs": { "value": 10, "unit": "g" },
+      "fat": { "value": 5, "unit": "g" },
+      "fiber": { "value": 4, "unit": "g" },
+      "totalSugars": { "value": 1, "unit": "g" },
+      "sodium": { "value": 300, "unit": "mg" },
+      "potassium": { "value": 400, "unit": "mg" },
+      "iron": { "value": 4, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Fresh or frozen jute leaves (molokhia)",
+      "Chicken or lamb (cut into pieces)",
+      "Chicken or meat stock",
+      "Onions",
+      "Garlic",
+      "Ground coriander",
+      "Cardamom pods",
+      "Bay leaves",
+      "Olive oil",
+      "Lemon juice",
+      "Salt",
+      "Black pepper",
+      "Rice (for serving)",
+      "Fresh cilantro"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "msamen": {
+    "description": "Msamen are Morocco's most beloved layered flatbreads, featuring multiple buttery layers that create a flaky, crispy exterior and tender interior. These square-shaped breads are made by rolling and folding the dough multiple times with oil or butter, creating distinct layers that puff and separate during cooking. Traditionally served for breakfast or as a snack with honey, jam, or cheese.",
+    "nutrition": {
+      "calories": { "value": 350, "unit": "kcal" },
+      "protein": { "value": 7, "unit": "g" },
+      "carbs": { "value": 45, "unit": "g" },
+      "fat": { "value": 15, "unit": "g" },
+      "fiber": { "value": 2, "unit": "g" },
+      "totalSugars": { "value": 10, "unit": "g" },
+      "sodium": { "value": 300, "unit": "mg" },
+      "potassium": { "value": 200, "unit": "mg" },
+      "iron": { "value": 1.5, "unit": "mg" },
+      "vitaminD": { "value": 0, "unit": "mcg" }
+    },
+    "ingredients": [
+      "All-purpose flour",
+      "Fine semolina",
+      "Active dry yeast",
+      "Sugar",
+      "Salt",
+      "Warm water",
+      "Butter (melted)",
+      "Vegetable oil",
+      "Eggs",
+      "Milk",
+      "Honey (for serving)",
+      "Jam or preserves (for serving)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/ma.png"
+  },
+  "tanjia": {
+    "description": "Tanjia is Morocco's most masculine dish, traditionally prepared by men for men in the ancient communal ovens of Marrakech. This slow-cooked meat dish gets its name from the amphora-like clay pot in which it's cooked. Chunks of beef or lamb are marinated with preserved lemons, garlic, and warming spices, then slow-cooked for hours until the meat becomes incredibly tender and infused with complex flavors.",
+    "nutrition": {
+      "calories": { "value": 400, "unit": "kcal" },
+      "protein": { "value": 30, "unit": "g" },
+      "carbs": { "value": 5, "unit": "g" },
+      "fat": { "value": 25, "unit": "g" },
+      "fiber": { "value": 1, "unit": "g" },
+      "totalSugars": { "value": 1, "unit": "g" },
+      "sodium": { "value": 600, "unit": "mg" },
+      "potassium": { "value": 500, "unit": "mg" },
+      "iron": { "value": 4, "unit": "mg" },
+      "vitaminD": { "value": 0.3, "unit": "mcg" }
+    },
+    "ingredients": [
+      "Beef shoulder or lamb (cut into large chunks)",
+      "Preserved lemons",
+      "Fresh garlic",
+      "Ground ginger",
+      "Saffron threads",
+      "Ground cinnamon",
+      "Ground mace",
+      "Ground nutmeg",
+      "Smen (aged butter) or regular butter",
+      "Salt",
+      "Black pepper",
+      "Bay leaves",
+      "Fresh thyme",
+      "Water",
+      "Bread (for serving)"
+    ],
+    "flagUrl": "https://flagcdn.com/w320/ma.png"
+  }
+}
