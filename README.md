@@ -57,18 +57,19 @@ A mobile application built with React Native that tracks North African dishes us
 
 | Login Screen | Signup Screen 1 | Signup Screen 2 |
 |:--------------:|:---------------:|:---------------:|
-| <img src="https://github.com/user-attachments/assets/80bf76ea-6bab-48cd-9776-dc08457bec55" width="300"/>  |<img src="https://github.com/user-attachments/assets/de975279-ad86-4039-91f4-61526476ed2f" width="300"/> | <img src="https://github.com/user-attachments/assets/a264dfad-6a4b-4505-99e2-6efc68c54c86" width="300"/>|
+| <img src="https://github.com/user-attachments/assets/54d73824-90d2-418b-bce0-d362b6090a39" width="250"/>  |<img src="https://github.com/user-attachments/assets/44b9eb23-32a8-4b03-b0a9-1e69b01b44f7" width="250"/> | <img src="https://github.com/user-attachments/assets/6e5d5991-4258-4a3c-b3f5-6e2c9e856f89" width="250"/>|
 ###  Core Functionality
 
 | Home Screen | Camera Screen 1 | Camera Screen 2 |
 |:-------------:|:---------------:|:---------------:|
-| <img src="https://github.com/user-attachments/assets/988e845e-a36a-4e99-85c8-381c62a1404d" width="300"/> | <img src="https://github.com/user-attachments/assets/a4ac5fe0-ad51-49a6-af65-1ef19f7780a6" width="300"/>|<img src="https://github.com/user-attachments/assets/8ee91314-5633-4714-9e05-0b48ef852978" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/7a9d5412-d423-4af8-8dbc-f7943325b16d" width="250"/> | <img src="https://github.com/user-attachments/assets/6e4aa401-e156-4be1-abd2-7a07de9471fd" width="250"/>|<img src="https://github.com/user-attachments/assets/818e3a40-2bfe-421f-a1bb-b47a0adafddd" width="250"/> |
 
 ###  Food Analysis
 
+
 | Description Screen 1 | Description Screen 2 | Profile Screen|
 |:--------------------:|:--------------------:|:----------------:|
-| <img src="https://github.com/user-attachments/assets/29ddb604-f9d4-4e6d-b1b0-d52881c8949c" width="300"/>| <img src="https://github.com/user-attachments/assets/16f78657-4915-4220-a321-4be5baeab1b7" width="300"/> | <img src="https://github.com/user-attachments/assets/6bd45a25-1dd6-4e92-864d-c2a2439b47eb" width="300"/> | 
+| <img src="https://github.com/user-attachments/assets/1161bac1-bcdb-4015-a59a-35455467b82b" width="250"/>| <img src="https://github.com/user-attachments/assets/a0e22e2d-2f31-42e3-bd92-fc0c99fd5206" width="250"/> | <img src="https://github.com/user-attachments/assets/c9001621-ead6-411f-bb7d-0f4d7c70e421" width="250"/> | 
 
 
 ## Technologies Used
