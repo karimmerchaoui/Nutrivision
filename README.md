@@ -12,7 +12,7 @@ A mobile application built with React Native that tracks North African dishes us
 
 <div align='center'>
   
-  ![0707(3) (1)](https://github.com/user-attachments/assets/e2a4013a-0092-41c2-90f3-817fc6f4e2eb)
+<img height="500" alt="nutrivision" src="https://github.com/user-attachments/assets/e2a4013a-0092-41c2-90f3-817fc6f4e2eb" />
 
 </div>
 
