@@ -10,7 +10,7 @@ A mobile application built with React Native that tracks North African dishes us
 - Language/cultural barriers in existing food tracking solutions
 - Limited AI models trained on ethnic foods
 
-### Overview
+### Supported Dishes/Foods
 
 `Basbousa`, `Freekeh`, `Meshabek`, `Tcharek`, `Thieboudienne`, `Asidat Zgougou`,  
 `Baghrir`, `Bradj`, `Brik`, `Cherchem`, `Couscous`, `Falafel`, `Fricasse`,  
