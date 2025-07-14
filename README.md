@@ -1,5 +1,5 @@
 
-![nutrivision](https://github.com/user-attachments/assets/e6d7a96f-ea0c-48eb-a8d2-179f9452da80)
+<img width="1200" height="350" alt="nutrivision" src="https://github.com/user-attachments/assets/5a2fc4cf-77c7-40f6-a74c-dc2a32b1b272" />
 
 ## Overview
 
@@ -11,8 +11,7 @@ A mobile application built with React Native that tracks North African dishes us
 - Limited AI models trained on ethnic foods
 
 <div align='center'>
-  
-![0707(3) (1)](https://github.com/user-attachments/assets/38058bd1-26f2-46fb-9b22-1095f9bc8ede)
+  ![0707(3) (1)](https://github.com/user-attachments/assets/e2a4013a-0092-41c2-90f3-817fc6f4e2eb)
 
 </div>
 
