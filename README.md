@@ -10,6 +10,13 @@ A mobile application built with React Native that tracks North African dishes us
 - Language/cultural barriers in existing food tracking solutions
 - Limited AI models trained on ethnic foods
 
+### Overview
+
+`Basbousa`, `Freekeh`, `Meshabek`, `Tcharek`, `Thieboudienne`, `Asidat Zgougou`,  
+`Baghrir`, `Bradj`, `Brik`, `Cherchem`, `Couscous`, `Falafel`, `Fricasse`,  
+`Ful Mdemmes`, `Kafteji`, `Karantika`, `Kunafah`, `Lablabi`, `Lham Lahlou`,  
+`Maakouda`, `Mloukhia`, `Msamen`, `Tanjia` 
+
 <div align='center'>
   
 <img height="500" alt="nutrivision" src="https://github.com/user-attachments/assets/e2a4013a-0092-41c2-90f3-817fc6f4e2eb" />
